@@ -1,0 +1,30 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "## I want to use typescript and vitest to test problem-solving functions of hackerrank problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crislerwin/problem-solving.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crislerwin/problem-solving/issues"
+  },
+  "homepage": "https://github.com/crislerwin/problem-solving#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "eslint": "^8.24.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
+    "typescript": "^4.8.4",
+    "vitest": "^0.23.4"
+  }
+}
