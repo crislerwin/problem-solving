@@ -4,6 +4,9 @@
 
 ### To Run
 
+- Requirements: Node v18.4.0
+
 ```js
+nvm use
 npm run test or npm t
 ```

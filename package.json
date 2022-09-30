@@ -4,7 +4,7 @@
   "description": "## I want to use typescript and vitest to test problem-solving functions of hackerrank problems",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest --watch"
   },
   "repository": {
     "type": "git",
