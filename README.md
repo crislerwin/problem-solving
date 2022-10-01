@@ -4,7 +4,7 @@
 
 ### To Run
 
-- Requirements: Node v18.4.0
+- It's good to use, but not mandatory: Node v18.4.0
 
 ```js
 nvm use
