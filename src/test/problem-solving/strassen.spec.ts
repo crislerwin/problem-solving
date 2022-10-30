@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { strassen } from "../strassen";
+import { strassen } from "../../problem-solving/strassen";
 
 test("strassen", () => {
   expect(

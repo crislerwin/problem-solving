@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { diagonalDifference } from "../diagonalDifference";
+import { diagonalDifference } from "../../problem-solving/diagonalDifference";
 
 test("Diagonal difference", () => {
   expect(
