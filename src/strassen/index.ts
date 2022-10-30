@@ -1,15 +1,3 @@
-// strassen algorithm to multiply two matrices
-
-const matrix = [
-  [1, 2],
-  [3, 4],
-];
-
-const matrix2 = [
-  [5, 6],
-  [7, 8],
-];
-
 // function to split a matrix into quarters
 const split = (matrix: number[][]): number[][][] => {
   const n = matrix.length / 2;

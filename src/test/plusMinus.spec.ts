@@ -1,5 +1,5 @@
 import { test, expect } from "vitest";
-import { plusMinus } from "./plusMinus";
+import { plusMinus } from "../plusMinus";
 
 test("plusMinus", () => {
   expect(plusMinus([1, 1, 0, -1, -1])).toEqual({
